@@ -1,6 +1,6 @@
 # 🧵 Cloth Composition Previewer
 
-**Preview fabric composition instantly — no extra clicks needed!**
+**Preview fabric composition without opening each product page.**
 
 This Chrome extension lets you view clothing composition directly on product listings without opening each product page.
 Just visit the website, click “Show description”, and instantly see the fabric details — all in one place.
