@@ -11,4 +11,6 @@ Just visit the website, click “Show description”, and instantly see the fabr
 
 - [Reserved.com](https://www.reserved.com)
 
+---
+
 <img width="2038" height="985" alt="image" src="https://github.com/user-attachments/assets/74f2066a-a142-4bc1-acbe-577768daed44" />
