@@ -8,3 +8,7 @@ Currently supported:
 Reserved.com
 
 <img width="2038" height="985" alt="image" src="https://github.com/user-attachments/assets/74f2066a-a142-4bc1-acbe-577768daed44" />
+
+🧵 Cloth Composition Previewer
+
+Instantly preview fabric composition without opening each product page.
