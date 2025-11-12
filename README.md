@@ -4,7 +4,9 @@
 
 This Chrome extension lets you view clothing composition directly on product listings without opening each product page.
 Just visit the website, click “Show description”, and instantly see the fabric details — all in one place.
-Can be downloaded here https://chromewebstore.google.com/detail/preview-cloth-composition/meidigkfcckllobnkogioifblncjeakb?authuser=0&hl=en-GB
+
+
+Download it here https://chromewebstore.google.com/detail/preview-cloth-composition/meidigkfcckllobnkogioifblncjeakb?authuser=0&hl=en-GB
 
 ---
 
